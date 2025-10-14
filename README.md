@@ -9,7 +9,7 @@
 💻 I’ve built multiple projects in **automation, data analytics, and web backend development** — always focusing on **clean design and performance**.
 
 ---
-
+<imag align="right"alt="coding"width="400"src="">
 ### 🧩 Tech Stack
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
