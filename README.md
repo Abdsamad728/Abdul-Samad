@@ -46,11 +46,5 @@
 
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdulSamad&show_icons=true&theme=tokyonight" alt="Abdul Samad's GitHub stats"/>
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulSamad&theme=tokyonight" alt="GitHub Streak Stats"/>
-</p>
 
