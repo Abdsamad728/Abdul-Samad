@@ -4,7 +4,7 @@
 
 ---
 
-🚀 **1 year of hands-on experience** working with advanced Python tools and frameworks.
+🚀 **Fresher/hands-on experience** working with advanced Python tools and frameworks.
 
 💻 I’ve built multiple projects in **automation, data analytics, and web backend development** — always focusing on **clean design and performance**.
 
